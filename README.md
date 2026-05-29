@@ -329,12 +329,6 @@ West Virginia University
 
 This project was developed as part of work in deep learning, pattern recognition, 3D computer vision, and autonomous-driving perception.
 
-## License
-
-Please add a license file before public reuse.
-
-If you want this repository to be broadly reusable, consider adding an open-source license such as MIT, BSD-3-Clause, or Apache-2.0 after confirming any course, lab, or dataset restrictions.
-
 ## Contact
 
 For questions or collaboration, please contact:
